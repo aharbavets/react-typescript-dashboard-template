@@ -25,7 +25,7 @@ To create a production build
 ```
 
 ## Credits 
-Based on template developed by [@blaiti](https://github.com/blaiti)
+Based on template developed by [@blaiti](https://github.com/blaiti). Converted from JavaScript to TypeScript
 
 ## License
 
